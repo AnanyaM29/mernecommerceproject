@@ -110,7 +110,8 @@ export const loginController = async(req,res)=>{
         }
         //token
 
-        const token = JWT.sign({_id:user._id},`${gluyxxesrj}`,{expiresIn:"7d"});
+        const token = JWT.sign({ _id: user._id }, 'gluyxxesrj', { expiresIn: '7d' });
+
         res.status(200).send({
             success:true,
             message:'Login successfully',
