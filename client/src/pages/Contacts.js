@@ -55,7 +55,7 @@ const Contact = () => {
             If you have any questions or need assistance with our products or services, please don't hesitate to contact us. Our team is available 24/7 to assist you.
           </p>
           <p className="mt-3">
-            <BiMailSend /> Email: <a href="mailto:help@ecommerceapp.com">help@ecommerceapp.com</a>
+            <BiMailSend /> Email: <a href="mailto: ananyamathuremail@gmail.com">ananyamathuremail@gmail.com</a>
           </p>
           <p className="mt-3">
             <BiPhoneCall /> Phone: <a href="tel:0123456789">012-345-6789</a>
