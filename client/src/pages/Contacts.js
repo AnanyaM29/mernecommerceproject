@@ -19,7 +19,7 @@
 //             vaialible
 //           </p>
 //           <p className="mt-3">
-//             <BiMailSend /> : www.help@ecommerceapp.com
+//             <BiMailSend /> : ananyamathuremail@gmail.com
 //           </p>
 //           <p className="mt-3">
 //             <BiPhoneCall /> : 012-3456789
